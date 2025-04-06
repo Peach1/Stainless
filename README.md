@@ -2,7 +2,7 @@
 Stainless Steel: For the Minimalist in love with completion. Drop-in memory-safe C++ replacement language.
 
 Design:
-- Inferred Memory Safety - The compiler infers lifetime annotations, making errors easy to spot, with minimal to no annotation.
+- Inferred Memory Safety - [The compiler infers lifetime annotations](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/), making errors easy to spot, with minimal to no annotation.
 - Embedded Friendly - By default, Stainless only needs a plain C99 runtime (or no runtime at all)
 - Baremetal by default - [We cleaned up the runtime - by default](https://arobenko.github.io/bare_metal_cpp/#compiler_output-nostdlib)
 - Compatible with existing systems languages, without needing FFI or bindings.
