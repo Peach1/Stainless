@@ -61,7 +61,7 @@ Chatrooms:
 
 The Stainless 3D graphics and video game toolkit is coming soon.
 
-The full release of Stainless will include `snowbuild`and `snowman` our build system & package manager for Stainless and C++.
+The full release of Stainless will include `snowbuild` and `snowman` our build system & package manager for Stainless and C++.
 
 We are also preparing to launch a first-class IDE with documentation that hyperlinks C and C++ codebases together across projects, so all dependencies can be quickly reviewed & analyzed offline. We're boosting the end-user's **informed consent** by letting the computer itself show you exactly how it works - Stainless is taking **View source**  from the web browser and bringing it back to **native desktop applications**, showing you the original C, C++, and Stainless code. We promote informed consent with easily-buildable, deterministic, precisely reproducible source code, with freedom much like the days of the early 2000s wild west internet.
 
