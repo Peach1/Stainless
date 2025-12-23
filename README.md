@@ -41,11 +41,13 @@ The Stainless Steel programming language is based on
 
 ## Download Preview
 
-- Mac - supports every Mac since Snow Leopard (2010 to 2025)
+- [Mac - supports every Mac since Snow Leopard (2010 to 2025)](https://github.com/Peach1/Stainless/releases/tag/mac-preview-dec-22-2025)
 
 - Windows - coming soon. (Windows XP to Windows 10 or later)
 
 - Linux - coming soon
+
+- **Archive.org** mirror - https://web.archive.org/web/20251223003727/https://github.com/Peach1/Stainless
 
 The preview includes the Stainless-clang compiler; Designed to be a drop-in replacement for clang and gcc. Major features include memory safety inference, reflection with sane syntax, and compile-time static_print. It's yours to use forever.
 
@@ -93,7 +95,7 @@ Stainless is made for beginners, enthusiasts, and industry experts to master art
 
 - **NO TELEMETRY** - Unlike LLVM, Stainless has ZERO telemetry and full offline privacy with no backdoors. This is strictly enforced. We use our own assembly backend and explicitly reject LLVM 20 since it added a spyware telemetry backdoor  [[llvm]Add a simple Telemetry framework (#102323) · llvm/llvm-project@8c00900 · GitHub](https://github.com/llvm/llvm-project/commit/8c0090030bf89df7e0dbe5827a83d52627b2c87f)
 
-**Less is more** - We started with baremetal C++14, removed features, then added fun extras like reflection (with saner syntax), and memory-safety inference.
+- **Less is more** - We started with baremetal C++14, removed features, then added fun extras like reflection (with saner syntax), and memory-safety inference.
 
 - **Lightweight** - Stainless only needs a plain C99 runtime (or no runtime at all) - this makes Stainless run on basically every major platform. We also optimized our standard library to produce minimal assembly - even when the optimizer is turned off - so you get high level C++ features, but with a simpler syntax and faster assembly generation by default.
 
@@ -466,9 +468,13 @@ We reject all drugs intended to make the behavior(or perception) of an individua
 
 We stand with our brothers who declare independence from government-controlled ideology.
 
-https://www.youtube.com/watch?v=cK22PH2r5vU 
+[LGB INTERNATIONAL - Reclaiming our Independence - YouTube](https://www.youtube.com/watch?v=cK22PH2r5vU)
 
 https://www.lgbinternational.org
+
+Declaration of Independence - In memory of Alan Turing.
+---
+
 
 ---
 
