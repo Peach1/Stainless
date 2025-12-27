@@ -54,6 +54,7 @@ The preview includes the Stainless-clang compiler; Designed to be a drop-in repl
 The **Mac** version is an important proof of concept - The same binary works on all Macs released the **past 15 years** - 2010 to 2025. **goodbye Planned Obsolescence**
 
 Chatrooms:
+
 - Discord: https://discord.gg/W4zHjtjDac
 
 (We plan to make our own self-hosted Discord alternative eventually)
@@ -93,7 +94,7 @@ Stainless is made for beginners, enthusiasts, and industry experts to master art
 
 - **No Bindings** It's a Stainless policy that all code be first-class, either something is written in Stainless, C, or C++, and that's it - Stainless is a full-ownership native language where we don't do any intermediate layers.
 
-- **NO TELEMETRY** - Unlike LLVM, Stainless has ZERO telemetry and full offline privacy with no backdoors. This is strictly enforced. We use our own assembly backend and explicitly reject LLVM 20 since it added a spyware telemetry backdoor  [[llvm]Add a simple Telemetry framework (#102323) · llvm/llvm-project@8c00900 · GitHub](https://github.com/llvm/llvm-project/commit/8c0090030bf89df7e0dbe5827a83d52627b2c87f)
+- **NO TELEMETRY** - Unlike LLVM, Stainless has ZERO telemetry - that means Stainless has full offline privacy with no backdoors. This is strictly enforced. We use our own assembly backend and explicitly reject LLVM 20 since it added a spyware telemetry backdoor  [[llvm]Add a simple Telemetry framework (#102323) · llvm/llvm-project@8c00900 · GitHub](https://github.com/llvm/llvm-project/commit/8c0090030bf89df7e0dbe5827a83d52627b2c87f)
 
 - **Less is more** - We started with baremetal C++14, removed features, then added fun extras like reflection (with saner syntax), and memory-safety inference.
 
@@ -123,11 +124,7 @@ For more advanced examples, see: Peach1/examples
 
 ![Stainless memsafe infer.png](Stainless/Stainless%20memsafe%20infer.png)
 
-
-
 ![stainless-clang-mac-preview.png](Stainless/stainless-clang-mac-preview.png)
-
-
 
 Works with the original C and C++ code without having to rewrite everything.
 
@@ -244,7 +241,7 @@ https://www.hawaiianflair.com/blogs/news/the-history-of-hawaiian-language-suppre
 
 In 1893, the American **Committee of Safety** led an <u>illegal overthrow</u> of the Hawaiian kingdom and whipped the native Hawaiians, to prevent them from speaking their native Hawaiian language - not because of "safety", but because the ruling class wanted control.
 
-The American government wants to kill C for the same reasons the feds tried to kill the Hawaiian language - The ruling class did not want the native islanders to organize a rebellion against the self-appointed American rulers.
+The American government wants to kill the C programming language for the same reasons the feds tried to kill the Hawaiian language - The ruling class did not want the native islanders to organize a rebellion against the self-appointed American rulers.
 
 Big tech does not want the public to know that within every computer is the ability to make a **Universal Systems Language** that works on every hardware and operating system on the planet - a systems language truly owned by the people. 
 
@@ -260,7 +257,7 @@ We want technology easy to repair, easy to reprogram, without needing approval f
 
 With Stainless, we're making a future of extreme informed consent - Our technology includes scientific research papers, precisely reproducible source code, and fully deterministic results.
 
-I want a toolchain with **no corrosion**, **no telemetry**, and **no corporate meddling**.
+I want a toolchain with **no corrosion**, **no telemetry spyware**, and **no corporate meddling**.
 
 I want a humanity-first technology toolchain built to last centuries, a historical reference point that still continues to work just fine into the future.
 
@@ -384,6 +381,8 @@ ask them if Thunderstorms violate the laws of physics.
 Thunderstorm Voltrolysis engines double as a water-purification-filter.
 So, when implemented correctly, Voltrolysis Thunderstorm engines purify the atmosphere *and* generate electricity.
 
+[Stanley Meyer - 1995 It runs on water - Water car GENIUS - YouTube](https://www.youtube.com/watch?v=GsMOFHPjZpo)
+
 In a **Voltrolysis Thunderstorm** world:
 
 - Airplanes would turn into atmosphere purification devices.
@@ -432,7 +431,7 @@ We saw the parallels in the technology industry, where
 
 Big Tech profits off keeping you out-of-date.
 
-Stainless Steel is built to **fight Planned obsolescence**, and provide users with tools that give both experts and laymen informed consent, and the knowledge to repair hardware & software, and do scientific research.
+Stainless Steel is built to **fight Planned obsolescence**, and provide users with tools that give both experts and laymen <u>informed consent,</u> and the knowledge to repair hardware & software, and do scientific research.
 
 ## A return to smarter science
 
@@ -472,9 +471,12 @@ We stand with our brothers who declare independence from government-controlled i
 
 https://www.lgbinternational.org
 
+
+
+
+
 Declaration of Independence - In memory of Alan Turing.
 ---
-
 
 ---
 
@@ -597,6 +599,8 @@ As iron sharpens iron, so one man sharpens another.
 [The Motivation Factor - Physical Education in schools in 1960s - #JFKChallenge - YouTube](https://www.youtube.com/watch?v=fISgKl8dB3M&ab_channel=DougOrchard)
 
 ![Church men used to be awesome.jpg](Stainless/Church%20men%20used%20to%20be%20awesome.jpg)
+
+^ This is actually church. Men were taught to be strong.
 
 [Muscular Christianity: Its History and Lasting Effects | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/when-christianity-was-muscular/)
 
