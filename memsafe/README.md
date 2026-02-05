@@ -4,6 +4,8 @@
 
 ![Watch Spider-Man Into the Spider-Verse Online Free - hdmo.tv-0017.png](memsafepics/Watch%20Spider-Man%20Into%20the%20Spider-Verse%20Online%20Free%20-%20hdmo.tv-0017.png)
 
+*SpiderMan Into the SpiderVerse* — a great movie - made possible with **C** & **C++**
+
 ![Stainless memsafe infer.png](memsafepics/Stainless%20memsafe%20infer.png)
 
 # What's up Danger?
@@ -13,8 +15,6 @@
 <u>No annotation</u> required.
 
 You get the full performance of C and C++, with a compiler that teaches you how to go *What's up Danger*, in the most powerful way possible.
-
-(By the way *SpiderMan Into the SpiderVerse* is a great movie - made possible with **C** & **C++**)
 
 ## Stainless Memory Safety Flags
 
@@ -65,7 +65,7 @@ int main()
 
 ![Double Free - C style.png](memsafepics/Double%20Free%20-%20C%20style.png)
 
-```c
+```cpp
 #include <stdlib.h>
 
 void cstyle()
@@ -80,7 +80,7 @@ void cstyle()
 
 ![control flow.png](memsafepics/control%20flow.png)
 
-```c
+```cpp
 void for_statement_scope()
 {
     int x = 0;
