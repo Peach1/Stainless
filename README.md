@@ -1,6 +1,6 @@
 # Stainless Steel - The most insane Systems language
 
-Moving to codeberg.org https://codeberg.org/Peach1/Stainless 
+**Moving to codeberg.org** - https://codeberg.org/Peach1/Stainless
 
 ![No_need_to_rewrite_everything.png](Stainless/No_need_to_rewrite_everything.png) 
 
@@ -94,7 +94,7 @@ Stainless is made for beginners, enthusiasts, and industry experts to master art
 
 - **Zero-dependency build system** - No CMake, no shellscripts, no problem. We made a secure build system that does not connect to the internet, and does not require scripts or foreign languages. We call it `snowbuild`... Do you wanna build a program? 
 
-- **No Bindings** It's a Stainless policy that all code be first-class, either something is written in Stainless, C, or C++, and that's it - Stainless is a full-ownership native language where we don't do any intermediate layers.
+- **No Bindings** It's a Stainless policy that all code be first-class, either something is written in Stainless, C, or C++, and that's it - Stainless is a full-ownership native language — we don't do any intermediate layers.
 
 - **NO TELEMETRY** - Unlike LLVM, Stainless has ZERO telemetry - that means Stainless has full offline privacy with no backdoors. This is strictly enforced. We use our own assembly backend and explicitly reject LLVM 20 since it added a spyware telemetry backdoor  [[llvm]Add a simple Telemetry framework (#102323) · llvm/llvm-project@8c00900 · GitHub](https://github.com/llvm/llvm-project/commit/8c0090030bf89df7e0dbe5827a83d52627b2c87f)
 
@@ -472,10 +472,6 @@ We stand with our brothers who declare independence from government-controlled i
 [LGB INTERNATIONAL - Reclaiming our Independence - YouTube](https://www.youtube.com/watch?v=cK22PH2r5vU)
 
 https://www.lgbinternational.org
-
-
-
-
 
 Declaration of Independence - In memory of Alan Turing.
 ---
