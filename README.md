@@ -1,5 +1,7 @@
 # Stainless Steel - The most insane Systems language
 
+Moving to codeberg.org https://codeberg.org/Peach1/Stainless 
+
 ![No_need_to_rewrite_everything.png](Stainless/No_need_to_rewrite_everything.png) 
 
 ![Stainless_Frutiger_Aero_Future.png](Stainless/Stainless_Frutiger_Aero_Future.png)
